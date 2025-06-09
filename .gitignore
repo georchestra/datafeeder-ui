@@ -5,6 +5,8 @@
 webcomponents/**/dist
 /tmp
 /out-tsc
+target/
+node/
 
 # dependencies
 /node_modules
@@ -14,6 +16,7 @@ webcomponents/**/dist
 .project
 .classpath
 .c9/
+.nx/
 *.launch
 .settings/
 *.sublime-workspace
