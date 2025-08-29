@@ -6,7 +6,7 @@
   <artifactId>datafeeder-ui</artifactId>
   <packaging>war</packaging>
   <name>Data-Feeder (web ui)</name>
-  <version>1.0.1-SNAPSHOT</version>
+  <version>1.0.1</version>
   <parent>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-dependencies</artifactId>
